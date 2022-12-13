@@ -1,1 +1,1 @@
-# JIAJT Repo
+# JIAJT Repository Index
